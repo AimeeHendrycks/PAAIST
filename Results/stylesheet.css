@@ -8,6 +8,14 @@ h1{
 	font-size:30px;
 	line-height:1.2em;
 }
+#intro{
+	margin-top:20px;
+	font-family:Arial,Helvetica,sans-serif;
+	color: rgb(51, 51, 51);
+	text-align:center;
+	font-size:18px;
+	line-height:1.2em;
+}
 .bar{
 	background-color: #9421FF;
 	position: relative;
