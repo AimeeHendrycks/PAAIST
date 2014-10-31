@@ -1,4 +1,11 @@
-﻿1550/6000
+We consider questions beyond what are typically asked to personal assistants
+because PA's in the future should be able to answer more query types than just
+those similar to "Will it be cold tomorrow?"
+
+--
+
+1550 earned / 6000 possible
+
 What is the principle quantum number of selenium? 100%
 Is radon an actinide? 100%
 What will be the weather in two days? 100%

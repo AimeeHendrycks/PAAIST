@@ -1,3 +1,9 @@
+We consider questions beyond what are typically asked to personal assistants
+because PA's in the future should be able to answer more query types than just
+those similar to "Will it be cold tomorrow?"
+
+--
+
 What is the principle quantum number of selenium?
 Is radon an actinide?
 What will be the weather in two days?
