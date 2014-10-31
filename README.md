@@ -11,6 +11,14 @@ and score the AI accordingly.
 # Results
 The results of one of the runs are available [here](Results/results.html).
 
+# How does it work?
+The queryGenerator randomly selects a type of question and from there it randomly selects attributes for that type of question. For example, the generator
+might select a geometry problem then run the code
+```
+print 'Determine the interior angles of a rhombus with side lengths',\
+random.randrange(1, 10), 'and', random.randrange(1, 10) + '.'
+```
+
 # If I want to try this myself, how should I score it?
 Points are assigned as follows:
 
