@@ -1,0 +1,121 @@
+acetic acid
+acetone
+acetylene
+acetylsalicylic acid
+adenine
+adenosine triphosphate
+adipic acid
+aluminum(III) oxide
+ammonia
+asbestos
+ascorbic acid
+aspirin
+aspartame
+baking soda
+benzene 
+benzoic acid 
+biphenyl
+bleach
+borax
+boric acid
+butane
+butene
+butyric
+caffeine
+calcium carbonate
+calcium oxide
+lime
+calcium sulfate
+gypsum
+carbon dioxide
+carbon monoxide
+chloroform
+chlorophyll
+cholesterol
+citric acid
+cocaine
+cytosine
+dichlorodifluoromethane
+dopamine
+epinephrine 
+adrenaline
+ethane
+ethene
+ethylene
+ether
+ethyl alcohol
+ethanol
+ethylenediaminetetraacetic acid
+fluoxetine
+prozac
+formaldehyde
+formic acid
+glucose
+glycerol
+glycerin
+guanine
+hydrochloric acid
+hydrogen peroxide
+hydrogen sulfide
+ibuprofen
+indigo
+insulin
+iron(III) oxide
+isooctane
+isoprene
+l-dopa
+lye
+methane
+methyl alcohol
+methanol
+methylphenidate
+ritalin
+monosodium glutamate
+morphine
+naphthalene
+nicotine
+nitric acid
+nitric oxide
+nitrogen dioxide
+nitrous oxide
+nitroglycerin
+norethindrone
+penicillin
+phenol
+phosphoric acid
+piperine
+potassium carbonate
+potassium nitrate
+propane
+propylene
+quinine
+saccharin
+silicon dioxide
+silica
+sodium bicarbonate
+sodium carbonate
+sodium chloride
+sodium hydroxide
+sodium hypochlorite
+starch
+strychnine
+styrene
+sucrose
+sulfuric acid
+table salt
+tetrafluoroethylene
+tetrahydrocannabinol
+thymine
+trinitrotoluene
+TNT
+toluene
+triuranium octaoxide
+uracil
+urea
+vanillin
+vinyl chloride
+vitamin B
+vitamin C
+vitamin D
+water
+xylene

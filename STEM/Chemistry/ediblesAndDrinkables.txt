@@ -1,0 +1,83 @@
+a bread slice
+a garlic bread slice
+a rice grain
+a breakfast cereal
+a sponge cake
+a fruit pie
+a bread roll
+a flour grain
+a doughnut
+a cracker
+a frozen pizza
+a pasta noodle
+a cereal bar
+a rump steak
+a burger
+a steak
+a loin chop
+a bacon slice
+a chicken breast
+a rotisserie chicken leg
+a turkey steak
+a chicken nugget
+a tuna slice
+a salmon fillet
+a yogurt serving
+a cheddar cheese slice
+a parmesan cheese slice
+a margarine teaspoon
+a butter teaspoon
+an olive oil drop
+an apple
+a pear
+a strawberry
+an orange
+an avocado
+a kiwi fruit
+a plum
+a dried fruit
+a banana
+a grape
+a grapefruit
+a peach
+a nectarine
+a salted peanut
+a roasted peanut
+a pineapple
+a cabbage leaf
+a kale leaf
+a carrot
+an onion
+a cucumber
+a tomato
+a sweet corn
+a vegetarian burger
+a pre-packed salad
+a mushroom
+a lettuce leaf
+a canned baked bean
+a broccoli floret
+a frozen pea
+a pickle
+a sugar grain
+an ice cream scoop
+a strawberry jam teaspoon
+a tomato sauce teaspoon
+a mayonnaise teaspoon
+a tea drink
+an instant coffee drink
+a ground coffee drink
+a mineral water
+an energy drink
+a fruit drink
+a squash
+a pumpkin
+a lemonade drink
+a fruit smoothie
+a whisky drink
+a brandy drink
+a vodka drink
+a champagne drink
+a bottled cider drink
+a sparkling wine drink
+a bottled red wine drink

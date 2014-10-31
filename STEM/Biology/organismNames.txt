@@ -1,0 +1,1037 @@
+acanthuridae
+achatina fulica
+achatinoidea
+acinonyx jubatus
+actinidia deliciosa
+aegypius monachus
+aepyceros melampus
+ailuropoda melanoleuca
+ailurus fulgens
+ajaja ajaja
+alcelaphinae
+alces alces
+alligator mississippiensis
+alopex lagopus
+alouatta
+ambystoma mexicanum
+ambystoma tigrinum
+amphiprioninae
+anas platyrhynchos
+anguis fragilis
+anisoptera
+anthozoa
+apatura iris
+apis
+apodemus sylvaticus
+aptenodytes forsteri
+aptenodytes patagonicus
+aptenodytes forsteri
+arachnocampa luminosa
+arctictis binturong
+arctocephalinae
+ardeidae
+arini
+arvicola amphibius
+astrochelys radiata
+atelerix albiventris
+balaenoptera acutorostrata
+balaenoptera physalus
+balsenoptera musculus
+barbus barbus
+betta splendens
+bison bison
+blattaria
+bombina
+bombus
+bos grunniens
+bos primigenius indicus
+bos taurus
+brachypelma smithi
+brachyura
+branta
+bubalus bubalis
+bubo scandiacus
+bufo bufo
+bufo marinus
+buteo buteo
+cacajao
+caelifera
+caimaninae
+callithrix pygmaea
+camelus bactrianus
+camelus dromedarius
+canis aureus
+canis lupus dingo
+canis lupus rufus
+canis rufus
+canis latrans
+canis lupus familiaris
+canus lupus arcticus
+capra aegagrus hircus
+capra falconeri
+caracal caracal
+carcharhinus amblyrhynchos
+carcharhinus leucas
+carcharodon carcharias
+caridea
+castor canadensis
+casuarius
+caudata
+cavia porcellus
+cebus capucinus
+cephalopterus
+ceratophrys ornata
+ceratotherium simum
+cerura vinula
+cetorhinus maximus
+cettia diphone
+chaetodontidae
+chamaeleonidae
+chelonioidea
+chelydridae
+chilopoda
+chinchilla lanigera
+chiroptera
+chlamydosaurus kingii
+chlamyphorus truncatus
+chlorocebus pygerythrus
+choeropsis liberiensis
+choloepus hoffmani
+cichlidae
+cirripedia
+civettictis civetta
+cnidaria scyphozoa aurelia
+coccinellidae
+coleoptera
+connochaetes taurinus
+coraciiformes
+coturnix coturnix
+crocodylus
+crocuta crocuta
+cryptoprocta ferox
+cuon alpinus
+cygnus atratus
+dasyatis centroura
+dasypodidae
+dasyurus viverrinus
+daubentonia madagascariensis
+delphinus delphis
+demospongiae
+dendrobatidae
+dendrobranchiata
+dermaptera
+desmodontinae
+dicerorhinus sumatrensis
+diceros bicornis
+didelphis virginiana
+diomedeidae
+diplopoda
+diptera
+dracaena guianensis
+dromaius novaehollandiae
+dugong dugon
+dynastes hercules
+echinoidea
+electrophorus electricus
+elephantulus
+elephas maximus
+elephas maximus borneensis
+elephas maximus indicus
+elephas maximus maximus
+elephas maximus sumatranus
+eleutherodactylus iberia
+emydidae
+enhydra lutris
+ephemeroptera
+equus asinus
+equus caballus
+equus mule
+equus zebra x equus asinus
+equus zebra x equus caballus
+equus zebra, equus quagga, equus grevyi
+erethizon dorsaum
+erithacus rubecula
+erythrocebus patas
+esox
+eudyptes chrysocome
+eudyptes chrysolophus
+eudyptes schlegeli
+eudyptes robustus
+eudyptula minor
+falconiforme
+felis concolor
+felis domesticus
+felis lynx
+felis concolor
+formicidae
+fratercula arctica
+fregata
+funambulus palmarum
+galeocerdo cuvier
+gallinula
+gallus gallus
+gavia immer
+gavialis gangeticus
+gekkonidae
+geochelone elegans
+geochelone nigra
+geochelone pardalis
+geochelone gigantea
+gerbillinae
+gerridae
+ginglymostoma cirratum
+giraffa camelopardalis
+gliridae
+gopherus agassizii
+gorilla berengei
+gorilla berengei berengei
+gorilla berengei graueri
+gorilla gorilla
+gorilla gorilla diehli
+gorilla gorilla gorilla
+gruidae
+gulo gulo
+gynnidomorpha alisman
+halichoerus grypus
+helarctos malayanus
+heleioporus
+heloderma suspectum
+helogale parvula
+hemigalus derbyanus
+heterodontus francisci
+hieraatus spilogaster
+hippocampus
+hippopotamus amphibius
+holothuroidea
+homo sapiens neanderthalensis
+homo sapiens sapiens
+hydrochoerus hydrochaeris
+hydrodamalis gigas
+hydrurga leptonyx
+hyla
+hylobatidae
+hymenoptera
+iguana iguana
+indri indri
+insecta
+isoptera
+labridae
+lacerta agilis
+lacertilia
+lagenorhynchus obscurus
+lagothrix lagotricha
+lama glama
+latrodectus
+lemmus lemmus
+lemur catta
+leontopithecus rosalia
+leopardus pardalis
+lepisosteidae
+leptailurus serval
+lepus arcticus
+lepus europaeus
+limulidae
+lissotriton vulgaris
+litoria nasuta
+lopholithodes mandtii
+loxodonta africana
+loxodonta africana africana
+loxodonta cyclotis
+lucanidae
+luscinia magarhynchos
+lutra canadensis
+lycaon pictus
+lynx rufus
+macaca fascicularis
+macaca fuscata
+macropus
+macropus giganteus
+mammuthus primigenius
+mandrillus sphinx
+manta birostris
+megadyptes antipodes
+megaptera novaeangliae
+meleagris
+melopsittacus undulatus
+mephitis mephitis
+merops orientalis
+mesobatrachia
+mesocricetus auratus
+metynnis argenteus
+microcebus murinus
+mirounga
+moloch horridus
+muraenidae
+mustela erminea
+mustela putorius furo
+mustela nivalis
+myrmecobius fasciatus
+myrmecophaga tridactyla
+nandinia binotata
+nasalis larvatus
+nasua nasua
+nectophryne afra
+neofelis nebulosa
+nephropidae
+numididae
+nyctereutes procyonoides
+ochotona minor
+octopus vulgaris
+odobenus rosmarus
+odocoileus virginiana
+okapia johnstoni
+oniscidea
+ophisaurus
+orcinus orca
+oriolus oriolus
+ornithorhynchus anatinus
+oryctolagus cuniculus
+osteolaemus tetraspis
+ostreidae
+otariidae
+ovis aries
+paguma larvata
+paguroidea
+pan paniscus
+pan troglodytes
+panthera tigris
+panthera tigris altaica
+panthera tigris amoyensis
+panthera tigris corbetti
+panthera tigris jacksoni
+panthera tigris sumatrae
+panthera tigris tigris
+panthera leo
+panthera leo × panthera tigris
+panthera onca
+panthera pardus
+panthera pardus, panthera onca
+panthera tigris tigris
+papilionoidea
+papio
+paracheirodon axelrodi
+paradisaeidae
+paradoxurus hermaphroditus
+paralichthys
+passeridae
+pavo cristatus
+pecari tajacu
+pelecanus occidentalis
+pelophylax lessonae
+pelophylax ridibundus
+pelophylax kl. esculentus
+perameles
+phacochoerus africanus
+phaethon
+phalanger maculatus
+phalangeriforme
+pharomachrus, euptilotis
+phascolarctos cinereus
+phasianus colchicus
+phasmatodea
+phoca vitulina
+phoenicopterus
+phycodurus eques
+physeter macrocephalus
+physignathus
+pica pica
+picidae
+platanistoidea
+poecilia
+poecilia reticulata
+pogona vitticeps
+pomacanthidae
+pongo abelii
+pongo pygmaeus
+pongo pygmaeus, pongo abelii
+prionailurus bengalensis
+prionailurus viverrinus
+pristella maxillaris
+procavia capensis
+procyon lotor
+proteus anguinus
+protoreaster nodosus
+pseudoryx nghetinhensis
+psittacine
+pterois volitans
+pteromyini
+pygocentrus nattereri
+pygoscelis antarcticus
+pygoscelis adeliae
+pygoscelis papua
+ramphastos sulfuratus
+ramphastos toco
+rana catesbeiana
+rana temporaria
+rangifer tarandus
+raphus cucullatus
+rattus rattus
+recurvirostra
+rhincodon typus
+rhinoceros sondaicus
+rhinoceros unicornis
+rhinocerotidae
+rhinoderma darwinii
+rupicapra rupicapra
+saguinus bicolor
+saguinus geoffroyi
+saguinus imperator
+saguinus midas
+saguinus oedipus
+saimiri
+sarcophilus harrisii
+sciuridae
+scorpaenidae
+scorpiones
+sepiida
+serpentes
+setonix brachyurus
+siluriformes
+simia paniscus
+smilodon populator
+spermophilus richardsonii
+spheniscus humboldti
+spheniscus magellanicus
+spheniscus mendiculus
+spheniscus demersus
+sphenodon punctatus
+sphyraena
+sphyrna zygaena
+squalus acanthias
+stegostoma fasciatum
+strigops habroptilus
+strix aluco
+struthio camelus
+sula nebouxii
+suricata suricatta
+sus scrofa scrofa
+sus scrofa
+symphysodon
+syncerus caffer
+tachyglossus aculeatus
+talpidae
+tamias striatus
+tapirus
+tarsius
+taxidea taxus
+tetraodontidae
+tetraoninae
+teuthida
+threskiornithidae
+thylogale
+tragelaphus strepsiceros
+tragelaphus eurycerus
+tremarctos ornatus
+trichechus manatu
+tridacna gigas
+trochilidae
+troglodytes gorilla
+tursiops truncatus
+tyto alba
+urochordata
+uroplatus
+ursidae
+ursus arctos
+ursus arctos horriblis
+ursus americanus
+ursus maritimus
+ursus tibetanus
+varanus indicus
+varanus komodoensis
+vespa mandarinia
+viverra tangalunga
+vombatus ursinus
+vulpes zerda
+vulpes vulpes
+xenopus laevis
+abyssinian
+adelie penguin
+affenpinscher
+afghan hound
+african bush elephant
+african civet
+african clawed frog
+african forest elephant
+african palm civet
+african penguin
+african tree toad
+african wild dog
+ainu dog
+airedale terrier
+akbash
+akita
+alaskan malamute
+albatross
+aldabra giant tortoise
+alligator
+alpine dachsbracke
+american bulldog
+american cocker spaniel
+american coonhound
+american eskimo dog
+american foxhound
+american pit bull terrier
+american staffordshire terrier
+american water spaniel
+anatolian shepherd dog
+angelfish
+ant
+anteater
+antelope
+appenzeller dog
+arctic fox
+arctic hare
+arctic wolf
+armadillo
+asian elephant
+asian giant hornet
+asian palm civet
+asiatic black bear
+australian cattle dog
+australian kelpie dog
+australian mist
+australian shepherd
+australian terrier
+avocet
+axolotl
+aye aye
+baboon
+bactrian camel
+badger
+balinese
+banded palm civet
+bandicoot
+barb
+barn owl
+barnacle
+barracuda
+basenji dog
+basking shark
+basset hound
+bat
+bavarian mountain hound
+beagle
+bear
+bearded collie
+bearded dragon
+beaver
+bedlington terrier
+beetle
+bengal tiger
+bernese mountain dog
+bichon frise
+binturong
+bird
+birds of paradise
+birman
+bison
+black bear
+black rhinoceros
+black russian terrier
+black widow spider
+bloodhound
+blue lacy dog
+blue whale
+bluetick coonhound
+bobcat
+bolognese dog
+bombay
+bongo
+bonobo
+booby
+border collie
+border terrier
+bornean orang-utan
+borneo elephant
+boston terrier
+bottle nosed dolphin
+boxer dog
+boykin spaniel
+brazilian terrier
+brown bear
+budgerigar
+buffalo
+bull mastiff
+bull shark
+bull terrier
+bulldog
+bullfrog
+bumble bee
+burmese
+burrowing frog
+butterfly
+butterfly fish
+caiman
+caiman lizard
+cairn terrier
+camel
+canaan dog
+capybara
+caracal
+carolina dog
+cassowary
+cat
+caterpillar
+catfish
+cavalier king charles spaniel
+centipede
+cesky fousek
+chameleon
+chamois
+cheetah
+chesapeake bay retriever
+chicken
+chihuahua
+chimpanzee
+chinchilla
+chinese crested dog
+chinook
+chinstrap penguin
+chipmunk
+chow chow
+cichlid
+clouded leopard
+clown fish
+clumber spaniel
+coati
+cockroach
+collared peccary
+collie
+common buzzard
+common frog
+common loon
+common toad
+coral
+cottontop tamarin
+cougar
+cow
+coyote
+crab
+crab-eating macaque
+crane
+crested penguin
+crocodile
+cross river gorilla
+curly coated retriever
+cuscus
+cuttlefish
+dachshund
+dalmatian
+darwin's frog
+deer
+desert tortoise
+deutsche bracke
+dhole
+dingo
+discus
+doberman pinscher
+dodo
+dog
+dogo argentino
+dogue de bordeaux
+dolphin
+donkey
+dormouse
+dragonfly
+drever
+duck
+dugong
+dunker
+dusky dolphin
+dwarf crocodile
+eagle
+earwig
+eastern gorilla
+eastern lowland gorilla
+echidna
+edible frog
+egyptian mau
+electric eel
+elephant
+elephant seal
+elephant shrew
+emperor penguin
+emperor tamarin
+emu
+english cocker spaniel
+english shepherd
+english springer spaniel
+entlebucher mountain dog
+epagneul pont audemer
+eskimo dog
+estrela mountain dog
+falcon
+fennec fox
+ferret
+field spaniel
+fin whale
+finnish spitz
+fire-bellied toad
+fish
+fishing cat
+flamingo
+flat coat retriever
+flounder
+fly
+flying squirrel
+fossa
+fox
+fox terrier
+french bulldog
+frigatebird
+frilled lizard
+frog
+fur seal
+galapagos penguin
+galapagos tortoise
+gar
+gecko
+gentoo penguin
+geoffroys tamarin
+gerbil
+german pinscher
+german shepherd
+gharial
+giant african land snail
+giant clam
+giant panda bear
+giant schnauzer
+gibbon
+gila monster
+giraffe
+glass lizard
+glow worm
+goat
+golden lion tamarin
+golden oriole
+golden retriever
+goose
+gopher
+gorilla
+grasshopper
+great dane
+great white shark
+greater swiss mountain dog
+green bee-eater
+greenland dog
+grey mouse lemur
+grey reef shark
+grey seal
+greyhound
+grizzly bear
+grouse
+guinea fowl
+guinea pig
+guppy
+hammerhead shark
+hamster
+hare
+harrier
+havanese
+hedgehog
+hercules beetle
+hermit crab
+heron
+highland cattle
+himalayan
+hippopotamus
+honey bee
+horn shark
+horned frog
+horse
+horseshoe crab
+howler monkey
+human
+humboldt penguin
+hummingbird
+humpback whale
+hyena
+ibis
+ibizan hound
+iguana
+impala
+indian elephant
+indian palm squirrel
+indian rhinoceros
+indian star tortoise
+indochinese tiger
+indri
+insect
+irish setter
+irish wolfhound
+jack russel
+jackal
+jaguar
+japanese chin
+japanese macaque
+javan rhinoceros
+javanese
+jellyfish
+kakapo
+kangaroo
+keel billed toucan
+killer whale
+king crab
+king penguin
+kingfisher
+kiwi
+koala
+komodo dragon
+kudu
+labradoodle
+labrador retriever
+ladybird
+leaf-tailed gecko
+lemming
+lemur
+leopard
+leopard cat
+leopard seal
+leopard tortoise
+liger
+lion
+lionfish
+little penguin
+lizard
+llama
+lobster
+long-eared owl
+lynx
+macaroni penguin
+macaw
+magellanic penguin
+magpie
+maine coon
+malayan civet
+malayan tiger
+maltese
+manatee
+mandrill
+manta ray
+marine toad
+markhor
+marsh frog
+masked palm civet
+mastiff
+mayfly
+meerkat
+millipede
+minke whale
+mole
+molly
+mongoose
+mongrel
+monitor lizard
+monkey
+monte iberia eleuth
+moorhen
+moose
+moray eel
+moth
+mountain gorilla
+mountain lion
+mouse
+mule
+neanderthal
+neapolitan mastiff
+newfoundland
+newt
+nightingale
+norfolk terrier
+norwegian forest
+numbat
+nurse shark
+ocelot
+octopus
+okapi
+old english sheepdog
+olm
+opossum
+orang-utan
+ostrich
+otter
+oyster
+pademelon
+panther
+parrot
+patas monkey
+peacock
+pekingese
+pelican
+penguin
+persian
+pheasant
+pied tamarin
+pig
+pika
+pike
+pink fairy armadillo
+piranha
+platypus
+pointer
+poison dart frog
+polar bear
+pond skater
+poodle
+pool frog
+porcupine
+possum
+prawn
+proboscis monkey
+puffer fish
+puffin
+pug
+puma
+purple emperor
+puss moth
+pygmy hippopotamus
+pygmy marmoset
+quail
+quetzal
+quokka
+quoll
+rabbit
+raccoon
+raccoon dog
+radiated tortoise
+ragdoll
+rat
+rattlesnake
+red knee tarantula
+red panda
+red wolf
+red-handed tamarin
+reindeer
+rhinoceros
+river dolphin
+river turtle
+robin
+rock hyrax
+rockhopper penguin
+roseate spoonbill
+rottweiler
+royal penguin
+russian blue
+sabre-toothed tiger
+saint bernard
+salamander
+sand lizard
+saola
+scorpion
+scorpion fish
+sea dragon
+sea lion
+sea otter
+sea slug
+sea squirt
+sea turtle
+sea urchin
+seahorse
+seal
+serval
+sheep
+shih tzu
+shrimp
+siamese
+siamese fighting fish
+siberian
+siberian husky
+siberian tiger
+silver dollar
+skunk
+sloth
+slow worm
+snail
+snake
+snapping turtle
+snowshoe
+snowy owl
+somali
+south china tiger
+spadefoot toad
+sparrow
+spectacled bear
+sperm whale
+spider monkey
+spiny dogfish
+sponge
+squid
+squirrel
+squirrel monkey
+sri lankan elephant
+staffordshire bull terrier
+stag beetle
+starfish
+stellers sea cow
+stick insect
+stingray
+stoat
+striped rocket frog
+sumatran elephant
+sumatran orang-utan
+sumatran rhinoceros
+sumatran tiger
+sun bear
+swan
+tang
+tapir
+tarsier
+tasmanian devil
+tawny owl
+termite
+tetra
+thorny devil
+tibetan mastiff
+tiffany
+tiger
+tiger salamander
+tiger shark
+tortoise
+toucan
+tree frog
+tropicbird
+tuatara
+turkey
+turkish angora
+uakari
+uguisu
+umbrellabird
+vampire bat
+vervet monkey
+vulture
+wallaby
+walrus
+warthog
+wasp
+water buffalo
+water dragon
+water vole
+weasel
+welsh corgi
+west highland terrier
+western gorilla
+western lowland gorilla
+whale shark
+whippet
+white faced capuchin
+white rhinoceros
+white tiger
+wild boar
+wildebeest
+wolf
+wolverine
+wombat
+woodlouse
+woodpecker
+woolly mammoth
+woolly monkey
+wrasse
+x-ray tetra
+yak
+yellow-eyed penguin
+yorkshire terrier
+zebra
+zebra shark
+zebu
+zonkey
+zorse

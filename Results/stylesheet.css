@@ -1,0 +1,67 @@
+html{background: rgb(245, 245, 245);}
+body {margin:0; padding:0;}
+h1{
+	margin:10.5px;
+	font-family:Arial,Helvetica,sans-serif;
+	color: rgb(51, 51, 51);
+	text-align:center;
+	font-size:30px;
+	line-height:1.2em;
+}
+.bar{
+	background-color: #9421FF;
+	position: relative;
+	height: 64px;
+	margin-top: 32px;
+	margin-bottom: 32px; 
+}
+#CortanaBar, #SiriBar, #GoogleBar {
+	font-family:Arial,Helvetica,sans-serif;
+	color: #FFFFFF;
+	text-align:center;
+	vertical-align: middle;
+	font-size:32px;
+	}
+#CortanaBar {
+	width:35%;
+	margin-left:3px;
+	<!-- added unseen borders, enabling vertical center because vertical-align is broken-->
+	border-right:3px solid rgb(245, 245, 245);
+	border-top:3px solid rgb(245, 245, 245);
+	border-bottom:3px solid rgb(245, 245, 245);
+}
+#SiriBar {
+	width:77.5%;
+	margin-left:3px;
+	border-right:3px solid rgb(245, 245, 245);
+	border-top:3px solid rgb(245, 245, 245);
+	border-bottom:3px solid rgb(245, 245, 245);
+}
+#GoogleBar {
+	width:100%;
+	margin-left:3px;
+	border-right:3px solid gold;
+	border-top:3px solid gold;
+	border-bottom:3px solid gold;
+}
+#vertbar {
+	 height:298px;
+	 margin-top:-10px;
+	 width:3px;
+	 background-color:black;
+	 float:left;
+	 z-index:1;
+}	
+footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background: #444444;
+	padding-bottom:10px;
+	color:#ffffff;
+	font-size:16px;
+	font-family:Garamond,Times New Roman,serif;
+}
+.spacer {
+	font-size: 12px;
+}

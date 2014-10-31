@@ -1,0 +1,622 @@
+Construction Project Manager
+Project Builder
+Engineering Manager
+Production Manager (Mining)
+Child Care Centre Manager
+Medical Administrator
+Nursing Clinical Director
+Primary Health Organisation Manager
+Welfare Centre Manager
+Accountant (General)
+Management Accountant
+Taxation Accountant
+External Auditor
+Internal Auditor
+Actuary
+Land Economist
+Valuer
+Ship's Engineer
+Ship's Master
+Ship's Officer
+Architect
+Landscape Architect
+Cartographer
+Other Spatial Scientist
+Surveyor
+Urban and Regional Planner
+Chemical Engineer
+Materials Engineer
+Civil Engineer
+Geotechnical Engineer
+Quantity Surveyor
+Structural Engineer
+Transport Engineer
+Electrical Engineer
+Electronics Engineer
+Industrial Engineer
+Mechanical Engineer
+Production or Plant Engineer
+Mining Engineer (Excluding Petroleum)
+Petroleum Engineer
+Aeronautical Engineer
+Agricultural Engineer
+Biomedical Engineer
+Engineering Technologist
+Environmental Engineer
+Naval Architect
+Agricultural Consultant
+Agricultural Scientist
+Forester
+Medical Laboratory Scientist
+Veterinarian
+Metallurgist
+Early Childhood (Pre-Primary School) Teacher
+Secondary School  Teacher
+Special Needs Teacher
+Teacher of the Hearing Impaired
+Teacher of the Sight Impaired
+Special Education Teacher
+Medical Diagnostic Radiographer
+Medical Radiation Therapist
+Nuclear Medicine Technologist
+Sonographer
+Environmental Health Officer
+Occupational Health and Safety Adviser
+Optometrist
+Chiropractor
+Osteopath
+Dental Specialist
+Dentist
+Occupational Therapist
+Physiotherapist
+Podiatrist
+Speech Pathologist
+General Practitioner
+Anaesthetist
+Cardiologist
+Clinical Haematologist
+Medical Oncologist
+Endocrinologist
+Gastroenterologist
+Intensive Care Specialist
+Neurologist
+Paediatrician
+Renal Medicine Specialist
+Rheumatologist
+Thoracic Medicine Specialist
+Specialist Physician
+Psychiatrist
+Surgeon (General)
+Cardiothoracic Surgeon
+Neurosurgeon
+Orthopaedic Surgeon
+Otorhinolaryngologist
+Paediatric Surgeon
+Plastic and Reconstructive Surgeon
+Urologist
+Vascular Surgeon
+Dermatologist
+Emergency Medicine Specialist
+Obstetrician and Gynaecologist
+Ophthalmologist
+Pathologist
+Diagnostic and Interventional Radiologist
+Radiation Oncologist
+Medical Practitioners
+Midwife
+Nurse Practitioner
+Registered Nurse (Aged Care)
+Registered Nurse (Child and Family Health)
+Registered Nurse (Community Health)
+Registered Nurse (Critical Care and Emergency)
+Registered Nurse (Developmental Disability)
+Registered Nurse (Disability and Rehabilitation)
+Registered Nurse (Medical)
+Registered Nurse (Medical Practice)
+Registered Nurse (Mental Health)
+Registered Nurse (Perioperative)
+Registered Nurse (Surgical)
+Registered Nurse (Paediatric)
+ICT business Analyst
+Systems Analyst
+Analyst Programmer
+Developer Programmer
+Software Engineer
+Computer Network and Systems Engineer
+Telecommunications Engineer
+Telecommunications Network Engineer
+Barrister
+Solicitor
+Clinical Psychologist
+Educational Psychologist
+Organisational Psychologist
+Psychotherapist
+Psychologist
+Social Worker
+Civil Engineering Draftsperson
+Civil Engineering Technician
+Electrical Engineering Draftsperson
+Electrical Engineering Technician
+Radio Communications Technician
+Telecommunications Field Engineer
+Telecommunications Network Planner
+Telecommunications Technical Officer or Technologist
+Automotive Electrician
+Motor Mechanic
+Diesel Motor Mechanic
+Motorcycle Mechanic
+Small Engine Mechanic
+Sheetmetal Trades Worker
+Metal Fabricator
+Pressure Welder
+Fitter and Turner
+Fitter-Welder
+Locksmith
+Bricklayer
+Stonemason
+Carpenter and Joiner
+Carpenter
+Joiner
+Painting trades workers
+Glazier
+Fibrous Plasterer
+Solid Plasterer
+Wall and Floor Tiler
+Plumber
+Drainer
+Gasfitter
+Roof plumber
+Electrician
+Lift Mechanic
+Airconditioning and Refrigeration Mechanic
+Electrical Linesworker
+Technical Cable Jointer
+Electronic Equipment Trades Worker
+Chef
+Boat Builder and Repairer
+Shipwright
+Dental Hygienist
+Dental Prosthetist
+Dental Technician
+Dental Therapist
+Chief Executive or Managing Director
+Corporate General Manager
+Defence Force Senior Officer
+Aquaculture Farmer
+Cotton Grower
+Flower Grower
+Fruit or Nut Grower
+Grape Grower
+Mixed Crop Farmer
+Sugar Cane Grower
+Turf Grower
+Vegetable Grower
+Crop Farmer
+Apiarist
+Beef Cattle Farmer
+Dairy Cattle Farmer
+Deer Farmer
+Goat Farmer
+Horse Breeder
+Mixed Livestock Farmer
+Pig Farmer
+Poultry Farmer
+Sheep Farmer
+Livestock Farmer
+Mixed Crop and Livestock Farmer
+Sales and Marketing Manager
+Advertising Manager
+Public Relations Manager
+Corporate Services Manager
+Finance Manager
+Human Resource Manager
+Policy and Planning Manager
+Research and Development Manager
+Importer or Exporter
+Wholesaler
+Manufacturer
+Production Manager (Forestry)
+Production Manager (Manufacturing)
+Supply and Distribution  Manager
+Procurement Manager
+Health and Welfare Services Manager
+School Principal
+Faculty Head
+Regional Education Manager
+Education Manager
+Chief Information Officer
+ICT Project Manager
+ICT Manager
+Commissioned Defence Force Officer
+Commissioned Fire Officer
+Commissioned Police Officer
+Senior Non-Commissioned Defence Force Member
+Arts Administrator or Manager
+Environmental Manager
+Laboratory Manager
+Quality Assurance Manager
+Sports Administrator
+Restaurant Manager
+Caravan Park and Camping Ground Manager
+Hotel or Motel Manager
+Licensed Club Manager
+Bed and Breakfast Operator
+Retirement Village Manager
+Accommodation and Hospitality Manager
+Antique Dealer
+Betting Agency Manager
+Hair or Beauty Salon Manager
+Post Office Manager
+Travel Agency Manager
+Amusement Centre Manager
+Fitness Centre Manager
+Sports Centre Manager
+Call or Contact Centre Manager
+Customer Service Manager
+Conference and Event Organiser
+Fleet Manager
+Railway Station Manager
+Transport Company Manager
+Boarding Kennel or Cattery Operator
+Cinema or Theatre Manager
+Facilities Manager
+Financial Institution Branch Manager
+Equipment Hire Manager
+Actor
+Dancer or Choreographer
+Entertainer or Variety Artist
+Composer
+Music Director
+Musician (Instrumental)
+Singer
+Music Professional
+Photographer
+Painter (Visual Arts)
+Potter or Ceramic Artist
+Sculptor
+Visual Arts and Crafts Professional
+Artistic Director
+Radio Presenter
+Television Presenter
+Author
+Book or Script Editor
+Art Director (Film, Television or Stage)
+Director (Film, Television, Radio or Stage)
+Director of Photography
+Film and Video Editor
+Program Director
+Stage Manager
+Technical Director
+Video Producer
+Copywriter
+Newspaper or Periodical Editor
+Print Journalist
+Radio Journalist
+Technical Writer
+Television Journalist
+Journalists
+Company Secretary
+Corporate Treasurer
+Commodities Trader
+Finance Broker
+Insurance Broker
+Financial Broker
+Financial Market Dealer
+Futures Trader
+Stockbroking Dealer
+Financial Dealer
+Financial Investment Adviser
+Financial Investment Manager
+Human Resource Adviser
+Recruitment Consultant
+Workplace Relations Adviser
+ICT Trainer
+Training and Development Professional
+Mathematician
+Statistician
+Archivist
+Gallery or Museum Curator
+Health Information Manager
+Records Manager
+Economist
+Intelligence Officer
+Policy Analyst
+Librarian
+Management Consultant
+Organisation and Methods Analyst
+Electorate Officer
+Liaison Officer
+Patents Examiner
+Information and Organisation Professional
+Advertising Specialist
+Market Research Analyst
+Marketing Specialist
+ICT Account Manager
+ICT Business Development Manager
+ICT Sales Representative
+Public Relations Professional
+Technical Sales Representative
+Aeroplane Pilot
+Air Traffic Controller
+Flying Instructor
+Helicopter Pilot
+Air Transport Professional
+Master Fisher
+Marine Surveyor
+Marine Transport Professional
+Fashion Designer
+Industrial Designer
+Jewellery Designer
+Graphic Designer
+Illustrator
+Multimedia Designer
+Web Designer
+Interior Designer
+Engineering Professional
+Chemist
+Food Technologist
+Wine Maker
+Conservation Officer
+Environmental Consultant
+Environmental Research Scientist
+Park Ranger
+Environmental Scientist
+Geologist
+Geophysicist
+Hydrogeologist
+Biochemist
+Biotechnologist
+Botanist
+Marine Biologist
+Microbiologist
+Zoologist
+Life Scientist
+Conservator
+Meteorologist
+Physicist
+Exercise Physiologist
+Natural and Physical Science Professional
+Primary School Teacher
+Middle School Teacher
+University Lecturer
+University Tutor
+Vocational Education Teacher
+Education Adviser
+Education Reviewer
+Private Tutors and Teacher
+Teacher of English to Speakers of Other Languages
+Dietitian
+Nutritionist
+Orthoptist
+Hospital Pharmacist
+Industrial Pharmacist
+Retail Pharmacist
+Health Promotion Officer
+Orthotist or Prosthetist
+Health Diagnostic and Promotion Professional
+Acupuncturist
+Homoeopath
+Naturopath
+Traditional Chinese Medicine Practitioner
+Complementary Health Therapist
+Audiologist
+Resident Medical Officer
+Nurse Researcher
+Nurse Manager
+Nurse Educator
+Multimedia Specialist
+Web Developer
+Software Tester
+Software and Applications Programmer
+Database Administrator
+ICT Security Specialist
+Systems Administrator
+Network Administrator
+Network Analyst
+ICT Quality Assurance Engineer
+ICT Support Engineer
+ICT Systems Test Engineer
+ICT Support and Test Engineer
+Judge
+Intellectual Property Lawyer
+Judicial Professional
+Careers Counsellor
+Drug and Alcohol Counsellor
+Family and Marriage Counsellor
+Rehabilitation Counsellor
+Student Counsellor
+Counsellor
+Minister of Religion
+Historian
+Interpreter
+Translator
+Archaeologist
+Social Professional
+Community Arts Worker
+Recreation Officer
+Welfare Worker
+Agricultural Technician
+Anaesthetic Technician
+Cardiac Technician
+Medical Laboratory Technician
+Operating Theatre Technician
+Pharmacy Technician
+Medical Technician
+Fisheries Officer
+Meat Inspector
+Quarantine Officer
+Primary Products Inspector
+Chemistry Technician
+Earth Science Technician
+Life Science Technician
+School Laboratory Technician
+Hydrographer
+Science Technician
+Architectural Draftsperson
+Building Associate
+Building Inspector
+Construction Estimator
+Plumbing Inspector
+Surveying or Spatial Science Technician
+Architectural, Building and Surveying Technician
+Electronic Engineering Draftsperson
+Electronic Engineering Technician
+Mechanical Engineering Draftsperson
+Mechanical Engineering Technician
+Safety Inspector
+Maintenance Planner
+Metallurgical or Materials Technician
+Mine Deputy
+Building and Engineering Technician
+Hardware Technician
+ICT Customer Support Officer
+Web Administrator
+ICT Support Technician
+Blacksmith
+Electroplater
+Farrier
+Metal Casting Trades Worker
+Metal Polisher
+Aircraft Maintenance Engineer (Avionics)
+Aircraft Maintenance Engineer (Mechanical)
+Aircraft Maintenance Engineer (Structures)
+Textile, Clothing and Footwear Mechanic
+Metal Fitters
+Engraver
+Gunsmith
+Precision Instrument Maker and Repairer
+Saw Maker and Repairer
+Watch and Clock Maker and Repairer
+Engineering Patternmaker
+Toolmaker
+Panelbeater
+Vehicle Body Builder
+Vehicle Trimmer
+Vehicle Painter
+Floor Finisher
+Roof Tiler
+Business Machine Mechanic
+Communications Operator
+Cabler (Data and Telecommunications)
+Telecommunications Cable Jointer
+Telecommunications Linesworker
+Telecommunications Technician
+Baker
+Pastrycook
+Butcher
+Cook
+Dog Handler or Trainer
+Horse Trainer
+Zookeeper
+Kennel Hand
+Animal Trainer
+Shearer
+Veterinary Nurse
+Florist
+Gardener (General)
+Arborist
+Landscape Gardener
+Greenkeeper
+Nurseryperson
+Hairdresser
+Print Finisher
+Screen Printer
+Graphic Pre-press Trades Worker
+Printing Machinist
+Small Offset Printer
+Canvas Goods Fabricator
+Leather Goods Maker
+Sail Maker
+Shoemaker
+Apparel Cutter
+Clothing Patternmaker
+Dressmaker or Tailor
+Clothing Trades Worker
+Upholsterer
+Cabinetmaker
+Furniture Finisher
+Picture Framer
+Wood Machinist
+Wood Turner
+Wood Machinist
+Chemical Plant Operator
+Gas or Petroleum Operator
+Power Generation Plant Operator
+Gallery or Museum Technician
+Library Technician
+Jeweller
+Broadcast Transmitter Operator
+Camera Operator (Film, Television or Video)
+Light Technician
+Make Up Artist
+Musical Instrument Maker or Repairer
+Sound Technician
+Television Equipment Operator
+Performing Arts Technicians nec
+Signwriter
+Diver
+Interior Decorator
+Optical Dispenser
+Optical Mechanic
+Plastics Technician
+Wool Classer
+Fire Protection Equipment Technician
+Technicians and Trades Workers nec
+Ambulance Officer
+Intensive Care Ambulance Paramedic
+Diversional Therapist
+Enrolled Nurse
+Mothercraft Nurse
+Aboriginal and Torres Strait Islander Health Worker
+Massage Therapist
+Community Worker
+Disabilities Services Officer
+Family Support Worker
+Parole or Probation Officer
+Residential Care Officer
+Youth Worker
+Defence Force Member – Other Ranks
+Emergency Service Worker
+Fire Fighter
+Detective
+Police Officer
+Prison Officer
+Driving Instructor
+Funeral Director
+Funeral Workers nec
+Flight Attendant
+Travel Attendants nec
+First Aid Trainer
+Diving Instructor (Open Water)
+Gymnastics Coach or Instructor
+Horse Riding Coach or Instructor
+Snowsport Instructor
+Swimming Coach or Instructor
+Tennis Coach
+Other Sports Coach or Instructor
+Dog or Horse Racing Official
+Sports Development Officer
+Sports Umpire
+Other Sports Official
+Footballer
+Golfer
+Jockey
+Contract Administrator
+Program or Project Administrator
+Conveyancer
+Legal Executive
+Insurance Investigator
+Insurance Loss Adjuster
+Insurance Risk Surveyor
+Clinical Coder
+Auctioneer
+Stock and Station Agent
+Insurance Agent
+Business Broker
+Property Manager
+Real Estate Agency Principal
+Real Estate Agent
+Real Estate Representative
+Retail Buyer
+Wool Buyer
+Driller

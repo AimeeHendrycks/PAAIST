@@ -1,0 +1,30 @@
+Baltimore Orioles
+Boston Red Sox
+New York Yankees
+Tampa Bay Rays
+Toronto Blue Jays
+Atlanta Braves
+Miami Marlins
+New York Mets
+Philadelphia Phillies
+Washington Nationals
+Chicago White Sox
+Cleveland Indians
+Detroit Tigers
+Kansas City Royals
+Minnesota Twins
+Chicago Cubs
+Cincinnati Reds
+Milwaukee Brewers
+Pittsburgh Pirates
+St. Louis Cardinals
+Houston Astros
+Los Angeles Angels
+Oakland Athletics
+Seattle Mariners
+Texas Rangers
+Arizona Diamondbacks
+Colorado Rockies
+Los Angeles Dodgers
+San Diego Padres
+San Francisco Giants

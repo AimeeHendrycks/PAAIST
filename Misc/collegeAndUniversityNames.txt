@@ -1,0 +1,114 @@
+Princeton University
+Princeton
+Stanford University
+Stanford
+Harvard University
+Harvard
+The University of Chicago
+UChicago
+Yale University
+Yale
+Massachusetts Institute of Technology
+MIT
+The University of Pennsylvania
+Penn
+UPenn
+The University of California at Berkeley
+UC Berkeley
+The University of Oxford
+Oxford
+The University of Cambridge
+Columbia University
+Columbia
+California Institute of Technology
+Caltech
+Duke University
+Duke
+Dartmouth College
+Dartmouth
+The University of Texas at Austin
+UT Austin
+The University of Michigan
+Johns Hopkins University
+Johns Hopkins
+JHU
+Northwestern University
+Northwestern
+Carnegie Mellon University
+Carnegie Mellon
+The University of Notre Dame
+Emory University
+Emory
+Brown University
+Brown
+Washington University in St. Louis
+WUSTL
+Cornell University
+Cornell
+The University of Virginia
+Amherst College
+Amherst
+Pomona College
+Pomona
+Williams College
+Williams
+Rice University
+Rice
+The University of Illinois at Urbana-Champaign
+The University of Southern California
+USC
+Vanderbilt University
+Vanderbilt
+Tufts University
+Tufts
+Harvey Mudd College
+Harvey Mudd
+New York University
+NYU
+Indiana University Bloomington
+Ohio State University
+The University of Pittsburgh
+The University of Minnesota
+The University of North Carolina at Chapel Hill
+UNC Chapel Hill
+The University of Washington
+Purdue University
+Purdue
+The University of Richmond
+The University of Wisconsin-Madison
+Boston College
+Rockefeller University
+The University of Rochester
+Georgia Institute of Technology
+Case Western Reserve University
+Swarthmore College
+Smith College
+Grinnell College
+Wellesley College
+Wellesley
+The University of California, Los Angeles
+UCLA
+George Washington University
+Boston University
+Michigan State University
+The University of Miami
+Washington and Lee University
+The University of Nebraska-Lincoln
+The University of Oklahoma
+Georgetown University
+Southern Methodist University
+The University of Missouri at Columbia
+Mizzou
+Texas Christian University
+The University of Kansas
+KU
+Yeshiva University
+University of Delaware
+Syracuse University
+Lehigh University
+Wake Forest University
+Tulane University
+Bowdoin College
+Bowdoin
+Saint Louis University
+Rutgers

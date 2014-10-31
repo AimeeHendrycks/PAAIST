@@ -1,0 +1,61 @@
+BLK
+ADS
+SHPG
+V
+ESS
+CP
+TDG
+FDX
+CMI
+PNRA
+ATK
+CACC
+SIG
+SNDK
+SPW
+WBC
+TRW
+APA
+EQM
+AAPL
+GOLD
+STZ
+DTV
+EMN
+WLK
+NTES
+BCH
+CALM
+VAL
+AVGO
+LVNTA
+TLLP
+MIC
+LRCX
+WSM
+WDFC
+UNT
+PKG
+NS
+NXPI
+BWA
+VTR
+MEOH
+ACMP
+SFG
+COHR
+BBBY
+DLR
+CIB
+MPLX
+Apple Inc
+Exxon Mobil
+Microsoft
+Google
+Berkshire Hathaway
+Johnson & Johnson
+Wells Fargo
+General Electric
+Hoffmann-La Roche
+Wal-Mart
+Pfizer

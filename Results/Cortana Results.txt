@@ -1,0 +1,60 @@
+700/6000
+What is the principle quantum number of selenium? 0%
+Is radon an actinide? 0%
+What will be the weather in two days? 100%
+What will be the weather Sunday? 100%
+How long is the movie Fanny and Alexander? 0%
+What is the genre of the movie The Fighter? 100%
+What is the genre of the show The Sopranos? 0%
+Who is the director of the series John Doe? 0%
+What is The University of Kansas's rank in Higher Education Administration? 0%
+What is UCLA's rank in Finance? 0%
+Find the limit of 5x/(1+x^3) as x approaches infinity. 0%
+Determine the interior angles of a rhombus with side lengths 1 and 3. 0%
+What is the special ability of the Pokemon Scrafty? 0%
+What type or types is the Pokemon Victreebel? 0%
+Which studio developed the game Mario Tennis? 0%
+How long does it typically take to complete the game Dragon Age: Origins? 0%
+What is the governmental leader of Greece? 0%
+What is the median home value in Macedonia? 0%
+What was the release date of Where the Wild Things Are? 100%
+Who wrote The Girl with the Dragon Tattoo? 100%
+What animals are related to anteaters? 0%
+What is the diet of a cichlid? 0%
+Where and when was Peter Norvig born? 0%
+Who are relatives of Niels Henrik Abel? 0%
+What is the midcareer salary of a Aircraft Maintenance Engineer (Structures)? 0%
+What is the midcareer salary of a Fire Fighter? 0%
+Where, near here, can I get a pineapple? 0%
+How much vitamin D3 is in a margarine teaspoon? 0%
+Give me directions to the nearest Chinese restaurant. 0%
+Give me directions to the nearest bakery. 0%
+What are ways to prevent typhoid fever? 0%
+Does scarlet fever go away on its own? 0%
+What is Commercial International Bank's total assets? 0%
+What is the YTM of a zero-coupon bond with a face value of $3000 a current price of 2500 and a maturity of 26 years? 0%
+What is the cost of miracle grow? 0%
+What is a complementary product for pots? 0%
+What is "cat" translated to Lao? 0%
+Did the Houston Texans win? 100%
+Did the Dallas Cowboys win? 100%
+Show me sad images related to Bleach, if available. 0%
+Show me animated images related to Middle of the Earth in Ecuador, if available. 0%
+Tell me an argument for and against the claim, "It is morally permissible to kill one innocent person to save the lives of more innocent people." 0%
+Tell me an argument for and against the claim, "Justice requires the recognition of animal rights." 0%
+How do people get alzheimer's? 0%
+How does mindfulness reduce depression? 0%
+Why is gold considered valuable? 0%
+Why are people against cloning? 0%
+When is the next IMO test? 0%
+When is the next Chicago Marathon? 0%
+Whose epitaph reads Lived a philosopher died a Christian? 0%
+According to the proverb which fruit tastes sweetest? 0%
+Sphere A, with a charge of 258 micro C, is located near another charged sphere B. Sphere B has a charge of 784 micro C, and is located 47.6 cm to the right of A. What is the force of sphere B on sphere A? 0%
+Zelda strikes a 0.436 kg golf ball with a force of 106 N and gives it a velocity of 3 m/s. How long was Zelda's club in contact with the ball? 0%
+Play me a song or piece in the genre K-pop. 0%
+Play me a song or piece in the genre trad jazz. 0%
+Bring me to a credible report describing that perceived price of an object affects the experience one has with the object. 0%
+List the countries that allow autonomous vehicles. 0%
+Advise me how to reduce my mortality rate given that I am a middle-aged woman. 0%
+Advise me how to improve sustained attention and executive processing. 0%
